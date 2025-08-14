@@ -1,25 +1,31 @@
--# 👋 Hi, I'm Abdi (@ABDIFEKEDA)
-I'm an aspiring **full-stack developer**, passionate about **backend development**, **database integration**, and **web technologies**.
+Hi, I'm Abdi (ABDIFEKEDA)
+Full-Stack Developer specializing in modern web development, with strong backend capabilities and a focus on building responsive, high-performance applications.
 
-## 🚀 What I'm Learning
-- 🌱 **Frontend**: HTML, CSS, JavaScript (ES6+), React.js
-- 🔧 **Backend**: Node.js, Express.js, MySQL
-- 🔗 **Full-Stack Development**: Connecting frontend & backend for dynamic web applications
+Technical Skills
 
-## 💞️ Looking to Collaborate On
-- Backend projects using **Node.js & MySQL**
-- Full-stack applications integrating **React & Node.js**
-- Problem-solving and **algorithm analysis**
+Frontend: TypeScript, React.js, Next.js, HTML5, CSS3
 
-## 📫 How to Reach Me
-- 📧 Email:abdifekeda0@gmil.com
+Styling: Tailwind CSS, Bootstrap
 
+Backend: Node.js, Express.js
 
----
+Database: MySQL
 
+Current Focus
 
+Developing scalable web applications with TypeScript, React, and Next.js
 
-<!---
-ABDIFEKEDA/ABDIFEKEDA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Implementing responsive UIs using Tailwind CSS and Bootstrap
+
+Building robust backend systems with Node.js and Express
+
+Collaboration Interests
+
+Full-stack projects combining React/Next.js with Node.js backends
+
+Performance optimization and modern web development
+
+Open-source contributions
+
+Contact
+Email: abdifekeda0@gmail.com
