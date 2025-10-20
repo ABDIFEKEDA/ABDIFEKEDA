@@ -1,31 +1,15 @@
-Hi, I'm Abdi (ABDIFEKEDA)
-Full-Stack Developer specializing in modern web development, with strong backend capabilities and a focus on building responsive, high-performance applications.
+Hi, I’m Abdi  — a Full-Stack Developer passionate about creating modern, responsive, and high-performance web applications.
 
-Technical Skills
+Tech Stack:
+Frontend – TypeScript, React.js, Next.js, HTML, CSS
+Styling – Tailwind CSS, Bootstrap
+Backend – Node.js, Express.js
+Database – MySQL
 
-Frontend: TypeScript, React.js, Next.js, HTML5, CSS3
+Current Focus:
+Building scalable full-stack applications with React/Next.js and Node.js, and crafting responsive UIs with Tailwind CSS.
 
-Styling: Tailwind CSS, Bootstrap
+Interests:
+Performance optimization, open-source collaboration, and modern web architecture.
 
-Backend: Node.js, Express.js
-
-Database: MySQL
-
-Current Focus
-
-Developing scalable web applications with TypeScript, React, and Next.js
-
-Implementing responsive UIs using Tailwind CSS and Bootstrap
-
-Building robust backend systems with Node.js and Express
-
-Collaboration Interests
-
-Full-stack projects combining React/Next.js with Node.js backends
-
-Performance optimization and modern web development
-
-Open-source contributions
-
-Contact
-Email: abdifekeda0@gmail.com
+📧 Contact: abdifekeda0@gmail.com
