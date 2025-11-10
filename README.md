@@ -1,4 +1,4 @@
-Full-Stack Developer passionate about creating modern, responsive, and high-performance web applications.
+Full-Stack Developer, passionate about creating modern, responsive, and high-performance web applications.
 
 
 Tech Stack:
