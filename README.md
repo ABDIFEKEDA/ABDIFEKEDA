@@ -1,19 +1,9 @@
-Full-Stack Web Developer, passionate about creating modern, responsive, and high-performance web applications.
-
-
-Tech Stack:
-Frontend – TypeScript, React.js, Next.js, HTML, CSS
-Styling – Tailwind CSS, Bootstrap
-
-Backend – Node.js, Express.js
-Database – MySQL
-
-
-Current Focus:
-Building scalable full-stack applications with React/Next.js and Node.js, and crafting responsive UIs with Tailwind CSS.
-
-Interests:
-
-Performance optimization, open-source collaboration, and modern web architecture.
-
-📧 Contact: abdifekeda0@gmail.com
+Full-Stack Web Developer – Building modern, responsive, high-performance web applications
+Frontend: Javascript, TypeScript, React.js, Next.js, HTML
+Styling: Css, Tailwind CSS, Bootstrap.
+Backend: Node.js, Express.js
+Database: MySQL, postgresQl
+Focus: Scalable full-stack apps & optimized UI/UX
+Interests: Performance optimization, open-source, modern web architecture
+Email: abdifekeda0@gmail.com
+contact me: 0917398001
