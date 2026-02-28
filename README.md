@@ -14,6 +14,6 @@ Scalable full-stack applications & optimized UI/UX.
 Interests
 Performance optimization, open-source, modern web architecture.
 
- Contact
+ Email:
 📧 abdifekeda0@gmail.com  
-📱 0917398001
+call me: 0917398001
