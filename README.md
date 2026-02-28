@@ -15,5 +15,5 @@ Interests
 Performance optimization, open-source, modern web architecture.
 
  Email:
-📧 abdifekeda0@gmail.com  
-call me: 0917398001
+  abdifekeda0@gmail.com  
+call me:  0917398001
